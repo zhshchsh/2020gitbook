@@ -1,6 +1,14 @@
 # 2020gitbook
 
+### fatal: Could not read from remote repository.的解决办法
 
+我叫曾小牛 2017-08-08 19:28:58  704  收藏
+分类专栏： 代码管理
+原文地址：http://blog.csdn.net/huahua78/article/details/52330792
+
+---------------------------------------------------------------------------------
+
+查看远端地址 git remote –v 
 更新
 
 玩转开源中国Gitee
