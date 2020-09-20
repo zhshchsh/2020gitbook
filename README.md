@@ -1,10 +1,13 @@
 # 2020gitbook
 
-### fatal: Could not read from remote repository.的解决办法
+## fatal: Could not read from remote repository.的解决办法
 
 我叫曾小牛 2017-08-08 19:28:58  704  收藏
 分类专栏： 代码管理
 原文地址：http://blog.csdn.net/huahua78/article/details/52330792
+
+
+https://blog.csdn.net/qq_1411/article/details/82876526?utm_medium=distribute.pc_feed_404.none-task-blog-BlogCommendFromBaidu-1.nonecase&depth_1-utm_source=distribute.pc_feed_404.none-task-blog-BlogCommendFromBaidu-1.nonecas
 
 ---------------------------------------------------------------------------------
 
